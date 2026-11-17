@@ -1,4 +1,4 @@
-# Đề tài 11 – Đánh giá rủi ro tín dụng khách hàng (bản nâng cấp)
+# Đề tài 11 – Đánh giá rủi ro tín dụng khách hàng 
 
 ## 1. Mục tiêu
 Xây dựng pipeline học máy phân loại dữ liệu Statlog German Credit thành:
