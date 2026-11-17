@@ -1,0 +1,8 @@
+Pipeline,Model,Accuracy,Precision_bad,Recall_bad,F1_bad,Macro_F1,Cost_total
+A_StandardScaler,KNN_k5,0.725,0.567568,0.35,0.43299,0.625736,211
+A_StandardScaler,GaussianNB,0.695,0.493671,0.65,0.561151,0.663717,145
+A_StandardScaler,DecisionTree,0.675,0.459016,0.466667,0.46281,0.614918,193
+B_MinMaxScaler,KNN_k5,0.705,0.513514,0.316667,0.391753,0.598517,223
+B_MinMaxScaler,GaussianNB,0.695,0.493671,0.65,0.561151,0.663717,145
+B_MinMaxScaler,DecisionTree,0.675,0.459016,0.466667,0.46281,0.614918,193
+Baseline,MostFrequent,0.7,0.0,0.0,0.0,0.411765,300
